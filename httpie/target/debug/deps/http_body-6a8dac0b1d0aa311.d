@@ -1,0 +1,13 @@
+/home/yxine/rust/rust-learn/httpie/target/debug/deps/http_body-6a8dac0b1d0aa311.rmeta: /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/lib.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/empty.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/full.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/next.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/size_hint.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/mod.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/box_body.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_data.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_err.rs
+
+/home/yxine/rust/rust-learn/httpie/target/debug/deps/http_body-6a8dac0b1d0aa311.d: /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/lib.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/empty.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/full.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/next.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/size_hint.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/mod.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/box_body.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_data.rs /home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_err.rs
+
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/lib.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/empty.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/full.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/next.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/size_hint.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/mod.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/box_body.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_data.rs:
+/home/yxine/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.3/src/combinators/map_err.rs:
